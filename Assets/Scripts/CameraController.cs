@@ -11,6 +11,13 @@ public class CameraController : MonoBehaviour
     [SerializeField] private Transform player;
     [SerializeField] private float aheadDistance;
     [SerializeField] private float cameraSpeed;
+ 
+
+
+ public float CurrentPosX
+    {
+        get { return currentPosX; }
+    }
 
     private void Update()
     {
