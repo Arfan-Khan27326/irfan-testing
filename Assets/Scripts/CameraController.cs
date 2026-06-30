@@ -26,5 +26,5 @@ public class CameraController : MonoBehaviour
         currentPosX = _newRoom.position.x;
     }
 
-    // saim khan 
+    
 }
