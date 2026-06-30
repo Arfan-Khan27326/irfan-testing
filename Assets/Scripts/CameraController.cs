@@ -11,6 +11,9 @@ public class CameraController : MonoBehaviour
     [SerializeField] private Transform player;
     [SerializeField] private float aheadDistance;
     [SerializeField] private float cameraSpeed;
+
+
+    // saim
  
 
 
