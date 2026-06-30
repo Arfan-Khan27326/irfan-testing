@@ -14,10 +14,7 @@ public class CameraController : MonoBehaviour
  
 
 
- public float CurrentPosX
-    {
-        get { return currentPosX; }
-    }
+
 
     private void Update()
     {
