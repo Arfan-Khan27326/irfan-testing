@@ -51,6 +51,9 @@ TagManager:
   - name: Player
     uniqueID: 1605637097
     locked: 0
+  - name: FireBall
+    uniqueID: 3038517397
+    locked: 0
   - name: Ground
     uniqueID: 1145252925
     locked: 0
